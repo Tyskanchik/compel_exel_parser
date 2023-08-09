@@ -1,0 +1,33 @@
+{
+
+    "editor.fontSize": 14,
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": true,
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+
+
+
+
+    "python.terminal.activateEnvironment": true,
+
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+          "source": "PowerShell",
+          "icon": "terminal-powershell",
+          "args": ["-ExecutionPolicy", "Bypass"]
+        },
+        "Command Prompt": {
+          "path": [
+            "${env:windir}\\Sysnative\\cmd.exe",
+            "${env:windir}\\System32\\cmd.exe"
+          ],
+          "args": [],
+          "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+          "source": "Git Bash"
+        }
+      },
+    "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
