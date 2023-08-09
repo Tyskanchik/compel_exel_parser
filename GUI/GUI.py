@@ -16,7 +16,7 @@ class App(customtkinter.CTk):
 
         self.geometry("1024x768")
         self.title("Exel_parser")
-        self.grid_columnconfigure(0,weight=0)
+        self.grid_columnconfigure(0,weight=1)
 
         self.xlsx_files_list = exel_parser.get_xlsx_list(dir=self.folder_exel)
 
