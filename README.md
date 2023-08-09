@@ -7,5 +7,5 @@ When uploading boom files from altium and ordering components from compel, it be
 The program allows you to compare BOM files from altium and excel files from sds-compel specifications. After matching, columns are created in the BOM file with the items that were bought and their quantity. Compel excel creates a column with the number of used elements on the board, to control the number of purchased elements.
 
 ## Usage
-Download necessary files () in "change files" folder
+Download necessary files (Altium BOM and Compel Excel) in "change files" folder.
 Run `run_excel_parse.bat`, and in GUI choose Altium BOM and Compel Excel. Push botton and and enjoy the result.
