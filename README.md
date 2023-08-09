@@ -1,3 +1,5 @@
+![]([https://img.shields.io/badge/python-3.10.4-blue](https://github.com/TomSchimansky/CustomTkinter))
+
 # Excel parser with sds and altium BOM
 This program helps the designer to fill in the missing fields of BOM files when transferring them for PCB assembly.
 
