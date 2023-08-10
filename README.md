@@ -119,31 +119,43 @@ The program uses column numbers. Therefore, it is desirable to define the table 
   </tbody>
     <tbody>
     <tr>
-      <td>470Ohm</td>
       <td>RC1206FR-07470RL</td>
-      <td>1206 RESISTOR</td>
+      <td>AC1206FR-07470RL (YAG)</td>
+      <td>AC1206FR-07470RL</td>
+      <td>YAG</td>
       <td>R1, R2, R3</td>
+      <td>SMD120632X16MM</td>
+      <td>Корпус: 1206 RESISTOR 470</td>
       <td>3</td>
-      <td>CR-06FL7--470R</td>
+      <td>нет</td>
+      <td>нет</td>
       <td>70</td>
-      <td></td>
+      <td>60</td>
     </tr>
   </tbody>
     <tbody>
     <tr>
-      <td>TL431</td>
-      <td>TL431</td>
-      <td>SOT-23-3</td>
-      <td>DA1</td>
-      <td>1</td>
-      <td>RS431AYSF3</td>
-      <td>25</td>
-      <td></td>
+      <td>RC1206FR-07470RL</td>
+      <td>CRCW1206470RFKEA (VISHAY)</td>
+      <td>CRCW1206470RFKEA</td>
+      <td>VISHAY</td>
+      <td>R1, R2, R3</td>
+      <td>SMD120632X16MM</td>
+      <td>Корпус: 1206 RESISTOR 470</td>
+      <td>3</td>
+      <td>нет</td>
+      <td>нет</td>
+      <td>70</td>
+      <td>60</td>
     </tr>
   </tbody>
     </tbody>
     <tbody>
     <tr>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
       <td>...</td>
       <td>...</td>
       <td>...</td>
