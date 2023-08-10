@@ -103,14 +103,18 @@ The program uses column numbers. Therefore, it is desirable to define the table 
   </thead>
   <tbody>
     <tr>
-      <td>Piezoelectric Buzzer</td>
-      <td>PKMCS0909E4000-R1</td>
-      <td>PKMCS0909E4000-R1</td>
-      <td>BQ1</td>
-      <td>1</td>
-      <td>PKMCS0909E4000-R1</td>
-      <td>25</td>
-      <td></td>
+      <td>RC1206FR-07470RL</td>
+      <td>CR-06FL7--470R (VIKING)</td>
+      <td>CR-06FL7--470R</td>
+      <td>VIKING</td>
+      <td>R1, R2, R3</td>
+      <td>SMD120632X16MM</td>
+      <td>Корпус: 1206 RESISTOR 470</td>
+      <td>3</td>
+      <td>да</td>
+      <td>нет</td>
+      <td>70</td>
+      <td>60</td>
     </tr>
   </tbody>
     <tbody>
