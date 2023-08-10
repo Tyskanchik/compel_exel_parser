@@ -32,7 +32,7 @@ The program uses column numbers. Therefore, it is desirable to define the table 
       <th scope="col"><i>Примечание</i></th>
     </tr>
   </thead>
-  <tbody align="center">
+  <tbody>
     <tr>
       <td>Piezoelectric Buzzer</td>
       <td>PKMCS0909E4000-R1</td>
