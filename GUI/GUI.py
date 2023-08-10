@@ -2,7 +2,7 @@ from typing import Optional, Tuple, Union
 import customtkinter
 import tkinter
 import os
-import exel_parser
+import exel_parser as ex_pr
 
 class App(customtkinter.CTk):
 
@@ -18,7 +18,7 @@ class App(customtkinter.CTk):
         self.title("Exel_parser")
         self.grid_columnconfigure(0,weight=1)
 
-        self.xlsx_files_list = exel_parser.get_xlsx_list(dir=self.folder_exel)
+        self.xlsx_files_list = ex_pr.get_xlsx_list(dir=self.folder_exel)
 
         # Создание областей
         self.choose_frame = customtkinter.CTkFrame(self,width=600,height=600)
@@ -75,7 +75,7 @@ class App(customtkinter.CTk):
         try:
             if int(self.qty_pcbs.get())>1:
                 os.chdir(self.folder_exel)
-                exel_parser.exel_transform(sds_exel_name=self.sds_bom_name.get(),
+                ex_pr.exel_transform(sds_exel_name=self.sds_bom_name.get(),
                                            altium_exel_name=self.alt_bom_name.get(),
                                            qty_pcbs=int(self.qty_pcbs.get()))
             else:
@@ -86,7 +86,7 @@ class App(customtkinter.CTk):
 
     # Обновление выпадающих меню при нажатии кнопки
     def button_update(self):
-        self.xlsx_files_list = exel_parser.get_xlsx_list(dir=self.folder_exel)
+        self.xlsx_files_list = ex_pr.get_xlsx_list(dir=self.folder_exel)
         self.choose_alt_bom.configure(values=self.xlsx_files_list)
         self.choose_sds_bom.configure(values=self.xlsx_files_list)
         print("Folder update!")
