@@ -27,9 +27,9 @@ The program uses column numbers. Therefore, it is desirable to define the table 
       <th scope="col">Footprint</th>
       <th scope="col">Designator</th>
       <th scope="col">Quantity</th>
-      <th scope="col">Название/закуплено</th>
-      <th scope="col">Количество</th>
-      <th scope="col">Примечание</th>
+      <th scope="col"><b>Название/закуплено</b></th>
+      <th scope="col"><b>Количество</b></th>
+      <th scope="col"><b>Примечание</b></th>
     </tr>
   </thead>
   <tbody>
