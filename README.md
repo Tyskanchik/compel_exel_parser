@@ -91,13 +91,14 @@ The program uses column numbers. Therefore, it is desirable to define the table 
       <th scope="col">Наименование</th>
       <th scope="col">Наименование товара</th>
       <th scope="col">Производитель товара</th>
+      <th scope="col">Позиционное обозначение</th>
       <th scope="col">Корпус</th>
       <th scope="col">Примечание</th>
       <th scope="col">Кол-во в изделии</th>
       <th scope="col">Подобрано предложение</th>
       <th scope="col">Приоритетный товар</th>
       <th scope="col">Общее кол-во на партию</th>
-      <th scope="col">Используемое количество</th>
+      <th scope="col"><i>Используемое количество</i></th>
       <th scope="col"><i>Примечание</i></th>
     </tr>
   </thead>
