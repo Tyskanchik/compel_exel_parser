@@ -91,6 +91,7 @@ The program uses column numbers. Therefore, it is desirable to define the table 
       <th scope="col">Наименование</th>
       <th scope="col">Наименование товара</th>
       <th scope="col">Производитель товара</th>
+      <th scope="col">Позиционное обозначение</th>
       <th scope="col">Корпус</th>
       <th scope="col">Примечание</th>
       <th scope="col">Кол-во в изделии</th>
@@ -128,7 +129,6 @@ The program uses column numbers. Therefore, it is desirable to define the table 
       <td>Корпус: 1206 RESISTOR 470</td>
       <td>3</td>
       <td>нет</td>
-      <td>нет</td>
       <td>70</td>
       <td>60</td>
     </tr>
@@ -143,7 +143,6 @@ The program uses column numbers. Therefore, it is desirable to define the table 
       <td>SMD120632X16MM</td>
       <td>Корпус: 1206 RESISTOR 470</td>
       <td>3</td>
-      <td>нет</td>
       <td>нет</td>
       <td>70</td>
       <td>60</td>
