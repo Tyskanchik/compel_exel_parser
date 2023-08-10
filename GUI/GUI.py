@@ -12,7 +12,7 @@ class App(customtkinter.CTk):
     def __init__(self, fg_color: str | Tuple[str, str] | None = None, **kwargs):
         super().__init__(fg_color, **kwargs)
 
-        self.folder_exel = "change files" # Путь файлов для изменения
+        self.folder_exel = "change_files" # Путь файлов для изменения
 
         self.geometry("1024x768")
         self.title("Exel_parser")
