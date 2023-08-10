@@ -98,7 +98,7 @@ The program uses column numbers. Therefore, it is desirable to define the table 
       <th scope="col">Подобрано предложение</th>
       <th scope="col">Приоритетный товар</th>
       <th scope="col">Общее кол-во на партию</th>
-      <th scope="col">Используемое количество</th>
+      <th scope="col"><i>Используемое количество</i>i></th>
       <th scope="col"><i>Примечание</i></th>
     </tr>
   </thead>
