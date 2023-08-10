@@ -34,8 +34,14 @@ The program uses column numbers. Therefore, it is desirable to define the table 
   </thead>
   <tbody>
     <tr>
-      <td>The table body</td>
-      <td>with two columns</td>
+      <td>Piezoelectric Buzzer</td>
+      <td>PKMCS0909E4000-R1</td>
+      <td>PKMCS0909E4000-R1</td>
+      <td>BQ1</td>
+      <td>1</td>
+      <td>PKMCS0909E4000-R1</td>
+      <td>25</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
