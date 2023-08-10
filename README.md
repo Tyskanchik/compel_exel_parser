@@ -16,12 +16,20 @@ Download necessary files (Altium BOM and Compel Excel) in "change files" folder.
 Run `run_excel_parse.bat`, and in GUI choose Altium BOM and Compel Excel. Push botton and and enjoy the result.
 
 ## Example
+The program uses column numbers. Therefore, it is desirable to define the table structure in advance.
 ### Tables structure
-Altium BOM
 <table>
+  <caption>Altium BOM</caption>
   <thead>
     <tr>
-      <th colspan="2">The table header</th>
+      <th>The table header</th>
+      <th>The table header</th>
+      <th>The table header</th>
+      <th>The table header</th>
+      <th>The table header</th>
+      <th>The table header</th>
+      <th>The table header</th>
+      <th>The table header</th>
     </tr>
   </thead>
   <tbody>
