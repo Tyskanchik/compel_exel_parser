@@ -1,3 +1,4 @@
+![customtkinter](https://img.shields.io/badge/python-3.11.3-blue)
 ![customtkinter](https://img.shields.io/badge/customtkinter-5.2.0-blue)
 
 
