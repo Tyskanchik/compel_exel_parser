@@ -82,3 +82,73 @@ The program uses column numbers. Therefore, it is desirable to define the table 
     </tr>
   </tbody>
 </table>
+<br>
+<table>
+  <caption>SDS Excel</caption>
+  <thead>
+    <tr>
+      <th scope="col">Имя строки</th>
+      <th scope="col">Наименование</th>
+      <th scope="col">Наименование товара</th>
+      <th scope="col">Производитель товара</th>
+      <th scope="col">Корпус</th>
+      <th scope="col">Примечание</th>
+      <th scope="col">Кол-во в изделии</th>
+      <th scope="col">Подобрано предложение</th>
+      <th scope="col">Приоритетный товар</th>
+      <th scope="col">Общее кол-во на партию</th>
+      <th scope="col">Используемое количество</th>
+      <th scope="col"><i>Примечание</i></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Piezoelectric Buzzer</td>
+      <td>PKMCS0909E4000-R1</td>
+      <td>PKMCS0909E4000-R1</td>
+      <td>BQ1</td>
+      <td>1</td>
+      <td>PKMCS0909E4000-R1</td>
+      <td>25</td>
+      <td></td>
+    </tr>
+  </tbody>
+    <tbody>
+    <tr>
+      <td>470Ohm</td>
+      <td>RC1206FR-07470RL</td>
+      <td>1206 RESISTOR</td>
+      <td>R1, R2, R3</td>
+      <td>3</td>
+      <td>CR-06FL7--470R</td>
+      <td>70</td>
+      <td></td>
+    </tr>
+  </tbody>
+    <tbody>
+    <tr>
+      <td>TL431</td>
+      <td>TL431</td>
+      <td>SOT-23-3</td>
+      <td>DA1</td>
+      <td>1</td>
+      <td>RS431AYSF3</td>
+      <td>25</td>
+      <td></td>
+    </tr>
+  </tbody>
+    </tbody>
+    <tbody>
+    <tr>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+  </tbody>
+</table>
+*Italicized columns are added by the program
