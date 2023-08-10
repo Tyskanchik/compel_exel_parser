@@ -22,14 +22,14 @@ The program uses column numbers. Therefore, it is desirable to define the table 
   <caption>Altium BOM</caption>
   <thead>
     <tr>
-      <th>The table header</th>
-      <th>The table header</th>
-      <th>The table header</th>
-      <th>The table header</th>
-      <th>The table header</th>
-      <th>The table header</th>
-      <th>The table header</th>
-      <th>The table header</th>
+      <th scope="col">Name</th>
+      <th scope="col">Description</th>
+      <th scope="col">Footprint</th>
+      <th scope="col">Designator</th>
+      <th scope="col">Quantity</th>
+      <th scope="col">Название/закуплено</th>
+      <th scope="col">Количество</th>
+      <th scope="col">Примечание</th>
     </tr>
   </thead>
   <tbody>
