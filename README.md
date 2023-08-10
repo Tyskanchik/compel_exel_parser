@@ -16,3 +16,16 @@ Download necessary files (Altium BOM and Compel Excel) in "change files" folder.
 Run `run_excel_parse.bat`, and in GUI choose Altium BOM and Compel Excel. Push botton and and enjoy the result.
 
 ## Example
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">The table header</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The table body</td>
+      <td>with two columns</td>
+    </tr>
+  </tbody>
+</table>
