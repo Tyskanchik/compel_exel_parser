@@ -32,7 +32,7 @@ The program uses column numbers. Therefore, it is desirable to define the table 
       <th scope="col"><i>Примечание</i></th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align=left>
     <tr>
       <td>Piezoelectric Buzzer</td>
       <td>PKMCS0909E4000-R1</td>
@@ -46,7 +46,7 @@ The program uses column numbers. Therefore, it is desirable to define the table 
   </tbody>
     <tbody>
     <tr>
-      <td>470r</td>
+      <td>470Ohm</td>
       <td>RC1206FR-07470RL</td>
       <td>1206 RESISTOR</td>
       <td>R1, R2, R3</td>
